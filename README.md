@@ -1,4 +1,4 @@
-Retail Sales Dashboard
+## Retail Sales Dashboard
 
 An interactive dashboard built to analyze retail sales performance across customer segments, product categories, and geographic regions.
 
