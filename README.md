@@ -7,7 +7,6 @@ An interactive dashboard built to analyze retail sales performance across custom
 ---
 
 ##  Project Overview
-
 This project simulates a real-world retail analytics workflow. Starting from raw sales data, I designed and built a fully interactive dashboard that enables business stakeholders to monitor revenue, profitability, regional performance, and product-level trends — all at a glance.
 
 The goal was to answer key business questions:
@@ -19,7 +18,6 @@ The goal was to answer key business questions:
 ---
 
 ## Dashboard Features
-
 ### Customer Segment Filter
 Dynamic filtering by **Consumer**, **Corporate**, and **Home Office** segments, enabling segment-specific analysis across all visuals.
 
@@ -44,7 +42,6 @@ Granular view across 9 sub-categories including **Bookcases, Storage, Chairs, Ph
 ---
 
 ## Insights & Business Takeaways
-
 1. **Profit margins are under pressure** — the gap between revenue and profit warrants a review of discount strategy, particularly as profitability declined year-over-year.
 2. **East region dominates** — nearly double the sales of the West region, indicating strong market penetration in the East but untapped potential elsewhere.
 3. **Furniture leads in sales but warrants margin scrutiny** — high-volume categories don't always mean high-profit; a deeper profitability-by-category cut would be the natural next step.
