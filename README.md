@@ -4,8 +4,6 @@ An interactive dashboard built to analyze retail sales performance across custom
 
 ![Retail Sales Dashboard](Retail.png)
 
----
-
 ##  Project Overview
 This project simulates a real-world retail analytics workflow. Starting from raw sales data, I designed and built a fully interactive dashboard that enables business stakeholders to monitor revenue, profitability, regional performance, and product-level trends — all at a glance.
 
@@ -14,8 +12,6 @@ The goal was to answer key business questions:
 - Which product categories and sub-categories drive the most sales?
 - How has profitability trended over time relative to discounting behavior?
 - Which regions are underperforming?
-
----
 
 ## Dashboard Features
 ### Customer Segment Filter
@@ -33,13 +29,12 @@ Breakdown across the three core categories — **Furniture, Office Supplies, and
 ### Sales by Sub-Category
 Granular view across 9 sub-categories including **Bookcases, Storage, Chairs, Phones, Accessories, Binders, Tables, Paper, and Copiers**, enabling identification of top-performing product lines.
 
----
 
 ## Tools & Technologies
 - Microsoft Excel (Data Cleaning & Data Analysis)
 - Power BI (Data Visualization)
-
----
+- ChatGPT (Dataset generation)
+  
 
 ## Insights & Business Takeaways
 1. **Profit margins are under pressure** — the gap between revenue and profit warrants a review of discount strategy, particularly as profitability declined year-over-year.
